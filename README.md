@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hello there, I'm Nicholas</h1>
+
+- 🔭 I’m currently working our [CitySites](https://github.com/CitySitesKJNP) Capstone Project
+
+- 📫 How to reach me 
+  - 📧 Email: **nicholas.j.gaytan97@gmail.com**
+  - 💼 Linkedin: https://www.linkedin.com/in/nicholas-gaytan/
 
 <!--
 **nicholasjg97/nicholasjg97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
