@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Nicholas</h1>
 
-- 🔭 I’m currently working our [CitySites](https://github.com/CitySitesKJNP) Capstone Project
+- 🔭 I’m currently working on Javascript review challenges in [JS-Challenges](https://github.com/nicholasjg97/JS-Challenges) while also looking for an opportunity in the frontend field.
 
 - 📫 How to reach me 
   - 📧 Email: **nicholas.j.gaytan97@gmail.com**
