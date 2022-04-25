@@ -1,10 +1,11 @@
 <h1 align="center">Hello there, I'm Nicholas</h1>
 
-- 🔭 I’m currently working on strengthening my skills in the frontend field.
+- 🔭 I’m currently working on strengthening my skills in the frontend software field.
+
+- I'm currently looking for a position in the frontend field.
 
 - 📫 How to reach me 
   - 📧 Email: **nicholas.j.gaytan97@gmail.com**
-  -          **Personal: nicholasjg97@gmail.com**
   - 💼 Linkedin: https://www.linkedin.com/in/nicholas-gaytan/
 
 - ⚡ Fun fact: I wanted to be a professional baseball player when I grew up, now I'm writing code 💥
