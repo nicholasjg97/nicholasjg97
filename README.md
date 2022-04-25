@@ -4,7 +4,7 @@
 
 - 📫 How to reach me 
   - 📧 Email: **nicholas.j.gaytan97@gmail.com**
-  -          Personal: nicholasjg97@gmail.com
+  -          **Personal: nicholasjg97@gmail.com**
   - 💼 Linkedin: https://www.linkedin.com/in/nicholas-gaytan/
 
 - ⚡ Fun fact: I wanted to be a professional baseball player when I grew up, now I'm writing code 💥
