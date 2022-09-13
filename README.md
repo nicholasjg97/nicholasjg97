@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Nicholas</h1>
 
-- 🔭 I’m currently working on creating my website @ nicholasgaytan.com
+- 🔭 I’m currently working on creating my website @ <a>nicholasgaytan.com</a>
 
 - I'm currently looking for a position in the frontend field.
 
